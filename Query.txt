@@ -1,0 +1,2 @@
+SELECT ID_cliente, razao_social_cliente, email_cliente FROM cliente
+WHERE estado_sigla_estado = ‘SP’
